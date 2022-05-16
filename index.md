@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Robert Krasiński side projects
+
+[Gdańsk primary schools map](primary_schools_map.html)
+
 
 You can use the [editor on GitHub](https://github.com/robert-krasinski/projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
